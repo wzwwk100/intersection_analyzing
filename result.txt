@@ -1,0 +1,161 @@
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.76106953], Target: [7]
+Predicted: [ 6.83784902], Target: [7]
+Predicted: [ 7.38462795], Target: [8]
+Predicted: [ 7.85414609], Target: [8]
+Predicted: [ 3.20112301], Target: [5]
+R-squared: 0.38
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.76106953], Target: [7]
+Predicted: [ 6.83784902], Target: [7]
+Predicted: [ 7.38462795], Target: [8]
+Predicted: [ 7.85414609], Target: [8]
+Predicted: [ 5.70492849], Target: [6]
+R-squared: 0.80
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.75258145], Target: [7]
+Predicted: [ 6.6672693], Target: [7]
+Predicted: [ 7.10437313], Target: [8]
+Predicted: [ 7.66350412], Target: [8]
+Predicted: [ 5.566921], Target: [6]
+R-squared: 0.54
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.70572429], Target: [7]
+Predicted: [ 6.88194717], Target: [7]
+Predicted: [ 7.47444677], Target: [8]
+Predicted: [ 7.86667535], Target: [8]
+Predicted: [ 5.77774498], Target: [6]
+R-squared: 0.84
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.76106953], Target: [7]
+Predicted: [ 6.83784902], Target: [7]
+Predicted: [ 7.38462795], Target: [8]
+Predicted: [ 7.85414609], Target: [8]
+Predicted: [ 5.70492849], Target: [6]
+R-squared: 0.80
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.73511801], Target: [7]
+Predicted: [ 6.81463107], Target: [7]
+Predicted: [ 7.3634165], Target: [8]
+Predicted: [ 7.83158572], Target: [8]
+Predicted: [ 5.6808069], Target: [6]
+R-squared: 0.77
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.70076855], Target: [7]
+Predicted: [ 6.97092618], Target: [7]
+Predicted: [ 7.68243247], Target: [8]
+Predicted: [ 8.0800975], Target: [8]
+Predicted: [ 5.72262685], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.56774041], Target: [7]
+Predicted: [ 7.10632686], Target: [7]
+Predicted: [ 7.96339043], Target: [8]
+Predicted: [ 8.17533647], Target: [8]
+Predicted: [ 5.88554114], Target: [6]
+R-squared: 0.91
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.5171651], Target: [7]
+Predicted: [ 7.02631021], Target: [7]
+Predicted: [ 7.8687128], Target: [8]
+Predicted: [ 8.10237751], Target: [8]
+Predicted: [ 5.79956236], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.49581981], Target: [7]
+Predicted: [ 7.17562902], Target: [7]
+Predicted: [ 8.07221693], Target: [8]
+Predicted: [ 8.14811663], Target: [8]
+Predicted: [ 6.05300048], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.49578572], Target: [7]
+Predicted: [ 7.17569281], Target: [7]
+Predicted: [ 8.07223613], Target: [8]
+Predicted: [ 8.14796707], Target: [8]
+Predicted: [ 6.05329484], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.48492479], Target: [7]
+Predicted: [ 7.05409755], Target: [7]
+Predicted: [ 7.92515824], Target: [8]
+Predicted: [ 8.11326426], Target: [8]
+Predicted: [ 5.84229259], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.50348608], Target: [7]
+Predicted: [ 7.07972207], Target: [7]
+Predicted: [ 7.95030717], Target: [8]
+Predicted: [ 8.12907152], Target: [8]
+Predicted: [ 5.87836478], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.53322928], Target: [7]
+Predicted: [ 7.11838545], Target: [7]
+Predicted: [ 7.99499855], Target: [8]
+Predicted: [ 8.16882348], Target: [8]
+Predicted: [ 5.91525283], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.52317054], Target: [7]
+Predicted: [ 7.00617645], Target: [7]
+Predicted: [ 7.8222716], Target: [8]
+Predicted: [ 8.06146782], Target: [8]
+Predicted: [ 5.80415052], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.55396491], Target: [7]
+Predicted: [ 7.19105024], Target: [7]
+Predicted: [ 8.07097796], Target: [8]
+Predicted: [ 8.1831697], Target: [8]
+Predicted: [ 6.04934724], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.51949258], Target: [7]
+Predicted: [ 6.96514747], Target: [7]
+Predicted: [ 7.75911436], Target: [8]
+Predicted: [ 8.02221345], Target: [8]
+Predicted: [ 5.76352619], Target: [6]
+R-squared: 0.88
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.55396491], Target: [7]
+Predicted: [ 7.19105024], Target: [7]
+Predicted: [ 8.07097796], Target: [8]
+Predicted: [ 8.1831697], Target: [8]
+Predicted: [ 6.04934724], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.55412403], Target: [7]
+Predicted: [ 7.20616805], Target: [7]
+Predicted: [ 8.10160316], Target: [8]
+Predicted: [ 8.21109745], Target: [8]
+Predicted: [ 6.04929574], Target: [6]
+R-squared: 0.89
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.55951518], Target: [7]
+Predicted: [ 7.17065945], Target: [7]
+Predicted: [ 8.03507129], Target: [8]
+Predicted: [ 8.16371162], Target: [8]
+Predicted: [ 6.02957025], Target: [6]
+R-squared: 0.91
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.56712558], Target: [7]
+Predicted: [ 7.20204682], Target: [7]
+Predicted: [ 8.09144026], Target: [8]
+Predicted: [ 8.21613695], Target: [8]
+Predicted: [ 6.03609504], Target: [6]
+R-squared: 0.90
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.56085177], Target: [7]
+Predicted: [ 7.17131726], Target: [7]
+Predicted: [ 8.03237486], Target: [8]
+Predicted: [ 8.15839521], Target: [8]
+Predicted: [ 6.03690231], Target: [6]
+R-squared: 0.91
+macbook-pro-wz:intersection_analyzing wuzheng$ python test.py 
+Predicted: [ 6.57123575], Target: [7]
+Predicted: [ 7.18224589], Target: [7]
+Predicted: [ 8.04435239], Target: [8]
+Predicted: [ 8.17077558], Target: [8]
+Predicted: [ 6.04618496], Target: [6]
+R-squared: 0.91
