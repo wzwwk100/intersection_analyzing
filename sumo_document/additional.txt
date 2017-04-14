@@ -1,0 +1,11 @@
+traffic_light和随机轨迹的用法
+按照官方文档配置traffic_light导入时比较复杂，可以直接在net.xml文件中找到traffic_light的信息进行修改。
+duration代表时长，state中G是绿灯，r红灯，y黄灯。
+
+随机轨迹则采用sumo tools中自带的radomTrips.py程序，Unbuntu环境下应该放在<SUMO_HOME>/tools/randomTrips.py
+参数设置见http://sumo.dlr.de/wiki/Tools/Trip
+
+mac环境下traceExporter和randomTrips的位置和用法
+/opt/local/bin/sumo-traceExporter --fcd-input=trace.xml --gpsdat-output=gps.txt
+/opt/local/bin/sumo-randomTrips -n test.net.xml -p 2
+
