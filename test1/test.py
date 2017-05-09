@@ -3,9 +3,10 @@ X = [[0.446, 0.59], [0.679, 0.664], [0.744, 0.718], [0.838, 0.666], [0.692, 0.73
 y = [[5], [7], [8], [8], [8], [7], [10], [6], [7], [8], [10], [6], [8], [7], [5], [9], [7], [9], [8], [8]]
 model = LinearRegression()
 model.fit(X, y)
-X_test = [[0.609256, 0.668353], [0.712361, 0.627881], [0.822496, 0.624508], [0.807264, 0.671726],[0.600469,0.581788]]
-y_test = [[7], [7], [8], [8], [6]]
+X_test = [[0,0],[1,0],[0,1]]
+y_test = [[90],[90],[90]]
 predictions = model.predict(X_test)
 for i, prediction in enumerate(predictions):
     print('Predicted: %s, Target: %s' % (prediction, y_test[i]))
 print('R-squared: %.2f' % model.score(X_test, y_test))
+
