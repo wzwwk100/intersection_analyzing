@@ -1,0 +1,8 @@
+<nodes>
+	<node id="1" x="116.29593550" y="0.00000000" type="priority"/>
+	<node id="2" x="116.30941000" y="0.00000000" type="traffic_light"/>
+	<node id="3" x="116.30941000" y="0.01356530" type="priority"/>
+
+
+</nodes>
+

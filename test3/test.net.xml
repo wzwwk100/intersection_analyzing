@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Tue Apr 25 15:13:25 2017 by SUMO netconvert Version 0.29.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <node-files value="test.nod.xml"/>
+        <edge-files value="test.edg.xml"/>
+    </input>
+
+    <output>
+        <output-file value="test.net.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+</configuration>
+-->
+
+<net version="0.27" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="-421653.26,0.00" convBoundary="0.00,0.00,1499.49,1499.48" origBoundary="116.295935,0.000000,116.309410,0.013565" projParameter="+proj=utm +zone=50 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <edge id=":2_0" function="internal">
+        <lane id=":2_0_0" index="0" speed="25.00" length="2.58" shape="1499.54,-1.65 1500.24,-1.55 1500.74,-1.25 1501.04,-0.75 1501.14,-0.05"/>
+    </edge>
+
+    <edge id="1-2" from="1" to="2" priority="75">
+        <lane id="1-2_0" index="0" speed="25.00" length="1499.54" shape="-0.00,-1.65 1499.54,-1.65"/>
+    </edge>
+    <edge id="2-3" from="2" to="3" priority="75">
+        <lane id="2-3_0" index="0" speed="25.00" length="1499.53" shape="1501.14,-0.05 1501.14,1499.48"/>
+    </edge>
+
+    <tlLogic id="2" type="static" programID="0" offset="0">
+        <phase duration="29" state="r"/>
+        <phase duration="61" state="G"/>
+    </tlLogic>
+
+    <junction id="1" type="unregulated" x="0.00" y="0.00" incLanes="" intLanes="" shape="-0.00,-0.05 -0.00,-3.25"/>
+    <junction id="2" type="traffic_light" x="1499.49" y="0.00" incLanes="1-2_0" intLanes=":2_0_0" shape="1499.54,-0.05 1502.74,-0.05 1499.54,-3.25">
+        <request index="0" response="0" foes="0" cont="0"/>
+    </junction>
+    <junction id="3" type="unregulated" x="1499.49" y="1499.48" incLanes="2-3_0" intLanes="" shape="1502.74,1499.48 1499.54,1499.48"/>
+
+    <connection from="1-2" to="2-3" fromLane="0" toLane="0" via=":2_0_0" tl="2" linkIndex="0" dir="l" state="o"/>
+
+    <connection from=":2_0" to="2-3" fromLane="0" toLane="0" dir="s" state="M"/>
+
+</net>

@@ -1,0 +1,146 @@
+采用新的转向延迟计算方法之后
+路口转向延迟
+t=t2-t1-|P1-Q1|/v1-|P2-Q2|/v2
+
+An为停车状态的记录点到路口距离的集合
+估计路口长度max{2*avg(An),An}
+
+6个点
+Predicted Speed
+[ 781.13082178]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 31.17539998]
+Predicted Speed
+[ 15.52858271]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 0.62436503]
+
+7个点
+Predicted Speed
+[ 28.03098]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 1.11873324]
+Predicted Speed
+[ 30.28061726]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 1.21750703]
+
+8个点
+Predicted Speed
+[ 25.539128]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 1.01928193]
+Predicted Speed
+[ 35.12609274]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 1.41233134]
+
+9个点
+Predicted Speed
+[ 22.36347871]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 0.89253986]
+Predicted Speed
+[ 38.19110361]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 1.53556767]
+
+10个点
+Predicted Speed
+[ 21.77256716]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 0.86895622]
+Predicted Speed
+[ 40.03828025]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 1.60983797]
+
+11个点
+Predicted Speed
+[ 20.57657584]
+Average Speed
+25.055679287305122
+Accuracy Rate
+[ 0.82122349]
+Predicted Speed
+[ 33.8611862]
+Average Speed
+24.871039056742815
+Accuracy Rate
+[ 1.36147265]
+
+12个点
+predicted speed
+[ 22.65071013]
+average speed
+25.055679287305122
+Accuracy Rate
+[ 0.90400344]
+predicted speed
+[ 27.45695605]
+average speed
+24.871039056742815
+Accuracy Rate
+[ 1.10397475]
+
+13个点
+predicted speed
+[ 23.04503035]
+average speed
+25.055679287305122
+Accuracy Rate
+[ 0.919752767]
+predicted speed
+[ 27.10943257]
+average speed
+24.871039056742815
+Accuracy Rate
+[ 1.087298062]
+
+14个点
+predicted speed
+[ 22.87586815]
+average speed
+25.055679287305122
+Accuracy Rate
+[ 0.913001315]
+predicted speed
+[ 26.61201179]
+average speed
+24.871039056742815
+Accuracy Rate
+[ 1.072533066]
+
+15个点
+predicted speed
+[ 23.05874164]
+average speed
+25.055679287305122
+Accuracy Rate
+[ 0.921581146]
+predicted speed
+[ 26.86072218]
+average speed
+24.871039056742815
+Accuracy Rate
+[ 1.081302723]
