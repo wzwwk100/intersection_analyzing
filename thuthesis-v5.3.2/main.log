@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.26)  22 MAY 2017 21:38
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.26)  24 MAY 2017 01:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2617,74 +2617,40 @@ No file main.bbl.
 ]) [21
 
 
-] (./data/appendix01.tex
+] (./data/translate-cn.tex
 附录 A
-\c@currmpdefctr=\count323
-\c@endmpdefctr=\count324
-\c@mpdef=\count325
-Package hyperref Info: bookmark level for unknown mpdef defaults to 0 on input 
-line 36.
-\c@currmpdefopctr=\count326
-\c@endmpdefopctr=\count327
-Package hyperref Info: bookmark level for unknown mpdefop defaults to 0 on inpu
-t line 48.
 [22
 
 
-]
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 11.04124pt on input line 99.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.06006pt on input line 99.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 6.07271pt on input line 99.
-
-Overfull \hbox (9.60687pt too wide) in paragraph at lines 99--111
- [][] 
- []
-
-[23]
-File: figures/thu-lib-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-lib-logo.pdf" > [24]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/sl' will be
-(Font)              scaled to size 12.045pt on input line 169.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 176.
- [25] [26]
-附录 B
-
-Overfull \hbox (9.60687pt too wide) in paragraph at lines 208--220
- [][] 
- []
-
-[27
-
-]
-File: figures/thu-whole-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-whole-logo.pdf" > [28] [29]
-附录 C
-) [30
-
-]
+] [23]
+Missing character: There is no … in font ntx-Regular-tlf-ot1!
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+ [24]
+Missing character: There is no … in font ntx-Regular-tlf-ot1!
+ [25]
+Missing character: There is no … in font ntx-Regular-tlf-ot1!
+ [26]
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+ [27] [28] [29]) [30] [31]
 \openout2 = `data/resume.aux'.
 
  (./data/resume.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.05249pt on input line 3.
- [31
+ [32
 
 
 
-]) [32]
+])
+[33]
+File: figures/scan-record.pdf Graphic file (type QTm)
+ <use  "figures/scan-record.pdf" >
 File: figures/scan-record.pdf Graphic file (type QTm)
  <use  "figures/scan-record.pdf" >
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf" >
-File: figures/scan-record.pdf Graphic file (type QTm)
- <use  "figures/scan-record.pdf"  page1>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
 <use  "figures/scan-record.pdf"  page1>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
@@ -2694,7 +2660,10 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page1>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page1> [33
+<use  "figures/scan-record.pdf"  page1>
+File: figures/scan-record.pdf Graphic file (type QTm)
+
+<use  "figures/scan-record.pdf"  page1> [34
 
 ]
 File: figures/scan-record.pdf Graphic file (type QTm)
@@ -2705,7 +2674,7 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page2>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page2> [34]
+<use  "figures/scan-record.pdf"  page2> [35]
 \tf@thm=\write8
 \openout8 = `main.thm'.
 
@@ -2713,20 +2682,20 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
 (./main.aux (./data/chap01.aux) (./data/chap02.aux) (./data/ack.aux)
 (./data/resume.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 76.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 35687 strings out of 493591
- 685976 string characters out of 6143546
- 668494 words of memory out of 5000000
- 38553 multiletter control sequences out of 15000+600000
- 145148 words of font info for 226 fonts, out of 8000000 for 9000
+ 35644 strings out of 493591
+ 686852 string characters out of 6143546
+ 667628 words of memory out of 5000000
+ 38512 multiletter control sequences out of 15000+600000
+ 137392 words of font info for 221 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,23n,96p,10437b,772s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (42 pages).
+Output written on main.pdf (43 pages).
