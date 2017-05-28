@@ -1,0 +1,108 @@
+    <vehicle id="31" depart="155.00">
+        <route edges="1-3 3-4 4-2 2-4"/>
+
+    <vehicle id="35" depart="175.00">
+        <route edges="3-4 4-2"/>
+
+    <vehicle id="43" depart="215.00">
+        <route edges="3-4 4-2 2-1 1-3"/>
+
+    <vehicle id="66" depart="330.00">
+        <route edges="1-3 3-4 4-2 2-4"/>
+
+    <vehicle id="69" depart="345.00">
+        <route edges="4-3 3-4 4-2"/>
+
+    <vehicle id="151" depart="755.00">
+        <route edges="3-4 4-2 2-1 1-3"/>
+
+    <vehicle id="156" depart="780.00">
+        <route edges="1-3 3-4 4-2 2-1"/>
+
+    <vehicle id="167" depart="835.00">
+        <route edges="3-4 4-2"/>
+
+    <vehicle id="184" depart="920.00">
+        <route edges="4-3 3-4 4-2 2-1"/>
+
+    <vehicle id="187" depart="935.00">
+        <route edges="3-4 4-2"/>
+
+    <vehicle id="195" depart="975.00">
+        <route edges="3-4 4-2 2-1"/>
+
+    <vehicle id="225" depart="1125.00">
+        <route edges="3-1 1-3 3-4 4-2"/>
+
+    <vehicle id="259" depart="1295.00">
+        <route edges="3-4 4-2 2-1 1-2"/>
+
+    <vehicle id="307" depart="1535.00">
+        <route edges="4-3 3-4 4-2"/>
+
+    <vehicle id="318" depart="1590.00">
+        <route edges="3-1 1-3 3-4 4-2"/>
+
+    <vehicle id="330" depart="1650.00">
+        <route edges="4-3 3-4 4-2"/>
+
+    <vehicle id="341" depart="1705.00">
+        <route edges="3-4 4-2"/>
+
+    <vehicle id="344" depart="1720.00">
+        <route edges="3-1 1-3 3-4 4-2"/>
+
+    <vehicle id="347" depart="1735.00">
+        <route edges="2-1 1-3 3-4 4-2"/>
+
+    <vehicle id="365" depart="1825.00">
+        <route edges="1-3 3-4 4-2 2-4"/>
+
+    <vehicle id="380" depart="1900.00">
+        <route edges="4-3 3-4 4-2 2-1"/>
+
+    <vehicle id="416" depart="2080.00">
+        <route edges="2-1 1-3 3-4 4-2"/>
+
+    <vehicle id="434" depart="2170.00">
+        <route edges="2-1 1-3 3-4 4-2"/>
+
+    <vehicle id="465" depart="2325.00">
+        <route edges="3-4 4-2 2-1 1-3"/>
+
+    <vehicle id="490" depart="2450.00">
+        <route edges="3-4 4-2 2-4"/>
+
+    <vehicle id="496" depart="2480.00">
+        <route edges="1-3 3-4 4-2 2-4"/>
+
+    <vehicle id="565" depart="2825.00">
+        <route edges="3-4 4-2 2-4"/>
+
+    <vehicle id="585" depart="2925.00">
+        <route edges="4-3 3-4 4-2 2-4"/>
+
+    <vehicle id="588" depart="2940.00">
+        <route edges="3-4 4-2 2-1 1-3"/>
+
+    <vehicle id="599" depart="2995.00">
+        <route edges="4-3 3-4 4-2 2-1"/>
+
+    <vehicle id="621" depart="3105.00">
+        <route edges="3-4 4-2"/>
+
+    <vehicle id="631" depart="3155.00">
+        <route edges="1-3 3-4 4-2 2-1"/>
+
+    <vehicle id="638" depart="3190.00">
+        <route edges="3-1 1-3 3-4 4-2"/>
+
+    <vehicle id="660" depart="3300.00">
+        <route edges="1-3 3-4 4-2 2-4"/>
+
+    <vehicle id="684" depart="3420.00">
+        <route edges="3-4 4-2 2-4"/>
+
+    <vehicle id="687" depart="3435.00">
+        <route edges="4-3 3-4 4-2 2-4"/>
+
