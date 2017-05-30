@@ -1,0 +1,120 @@
+1
+Predicted_time1: 67.2358875401
+Predicted_time2: -58.5640594295
+Predicted_speed: -25.6129785847
+Accuracy Rate: 0
+
+2
+Predicted_time1: 65.090152846
+Predicted_time2: -51.2388719782
+Predicted_speed: -29.2746491499
+Accuracy Rate: 0
+
+3
+Predicted_time1: 61.1807799334
+Predicted_time2: -13.992778678
+Predicted_speed: -107.198150884
+Accuracy Rate: 0
+
+4
+Predicted_time1: 60.8141024205
+Predicted_time2: -22.1583401198
+Predicted_speed: -67.6946013053
+Accuracy Rate: 0
+
+5
+Predicted_time1: 29.945622882
+Predicted_time2: 31.9619268177
+Predicted_speed: 46.9308376981
+Accuracy Rate: 0.518051481552
+
+6
+Predicted_time1: 35.2535350811
+Predicted_time2: 18.4994818992
+Predicted_speed: 81.0833518566
+Accuracy Rate: 0.299846879086
+
+7
+Predicted_time1: 43.0816889133
+Predicted_time2: 5.6938036431
+Predicted_speed: 263.444279786
+Accuracy Rate: 0.0922874090101
+
+8
+Predicted_time1: 36.577497966
+Predicted_time2: 14.5917069776
+Predicted_speed: 102.798116923
+Accuracy Rate: 0.236508126098
+
+9
+Predicted_time1: 32.7657507694
+Predicted_time2: 21.6324410012
+Predicted_speed: 69.340302369
+Accuracy Rate: 0.350627112507
+
+10
+Predicted_time1: 28.4717476433
+Predicted_time2: 27.6512939937
+Predicted_speed: 54.247009212
+Accuracy Rate: 0.448183049226
+
+11
+Predicted_time1: 29.6715433745
+Predicted_time2: 23.2007012758
+Predicted_speed: 64.6532181147
+Accuracy Rate: 0.376046091888
+
+12
+Predicted_time1: 29.3302130002
+Predicted_time2: 24.8529029968
+Predicted_speed: 60.3551223048
+Accuracy Rate: 0.402825627247
+
+13
+Predicted_time1: 28.9574829088
+Predicted_time2: 25.4259746238
+Predicted_speed: 58.9947886834
+Accuracy Rate: 0.412114197586
+
+14
+Predicted_time1: 18.6825105631
+Predicted_time2: 51.0961731066
+Predicted_speed: 29.3564059459
+Accuracy Rate: 0.82818687154
+
+15
+Predicted_time1: 14.9635048322
+Predicted_time2: 61.5954377437
+Predicted_speed: 24.3524529567
+Accuracy Rate: 0.998363082489
+
+16
+Predicted_time1: 14.3813514641
+Predicted_time2: 63.3396023371
+Predicted_speed: 23.681866394
+Accuracy Rate: 0.974057736919
+
+17
+Predicted_time1: 14.8610583006
+Predicted_time2: 60.6947284986
+Predicted_speed: 24.7138431476
+Accuracy Rate: 0.983764032765
+
+18
+Predicted_time1: 15.2989913372
+Predicted_time2: 58.3621945367
+Predicted_speed: 25.7015695161
+Accuracy Rate: 0.945957404848
+
+19
+Predicted_time1: 15.0737554065
+Predicted_time2: 59.0065988804
+Predicted_speed: 25.4208856037
+Accuracy Rate: 0.956402163916
+
+20
+Predicted_time1: 15.0374227102
+Predicted_time2: 58.5156493231
+Predicted_speed: 25.6341682499
+Accuracy Rate: 0.948444660384
+
