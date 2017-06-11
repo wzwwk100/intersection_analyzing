@@ -1,126 +1,84 @@
 1
-Predicted: 51.878268426
-Predicted: 29.8237494798
-Predicted: 4.52788742882
-50.2954868574
-Accuracy Rate: 0.483395062243
-331.280320808
-Accuracy Rate: 0.0733825357954
-Total Accuracy Rate: 0.278388799019
+Predicted_time1: 106.775398033
+Predicted_time2: -205.41103876
+Predicted_speed: -7.3024313058
+Accuracy Rate: 0
+
 2
-Predicted: 35.0665401188
-Predicted: 20.0628672437
-Predicted: 68.819703665
-74.7649865685
-Accuracy Rate: 0.32518684368
-21.7960833906
-Accuracy Rate: 0.896582190045
-Total Accuracy Rate: 0.610884516863
+Predicted_time1: 24.2372264537
+Predicted_time2: 31.4916876516
+Predicted_speed: 47.6316168442
+Accuracy Rate: 0.510429660188
+
 3
-Predicted: 33.0384533934
-Predicted: 32.3173814573
-Predicted: 53.2314434649
-46.4146515702
-Accuracy Rate: 0.523812830163
-28.1788338313
-Accuracy Rate: 0.862711003071
-Total Accuracy Rate: 0.693261916617
+Predicted_time1: 19.8766046285
+Predicted_time2: 41.2063438333
+Predicted_speed: 36.4021619115
+Accuracy Rate: 0.667888628678
+
 4
-Predicted: 31.8019071067
-Predicted: 42.0107103833
-Predicted: 46.8585529257
-35.7051805674
-Accuracy Rate: 0.680926118105
-32.0112318103
-Accuracy Rate: 0.759426883166
-Total Accuracy Rate: 0.720176500635
+Predicted_time1: 20.5267169042
+Predicted_time2: 40.9348840757
+Predicted_speed: 36.6435629138
+Accuracy Rate: 0.663488702154
+
 5
-Predicted: 20.5911224325
-Predicted: 53.7504429023
-Predicted: 55.8786655086
-27.9067467914
-Accuracy Rate: 0.871208320401
-26.8438765734
-Accuracy Rate: 0.905613983641
-Total Accuracy Rate: 0.888411152021
+Predicted_time1: 18.3566317962
+Predicted_time2: 49.5282789215
+Predicted_speed: 30.2857283286
+Accuracy Rate: 0.802773825883
+
 6
-Predicted: 18.2147877623
-Predicted: 55.3419096308
-Predicted: 56.8679711933
-27.1042327597
-Accuracy Rate: 0.897003439114
-26.3768861193
-Accuracy Rate: 0.921647456415
-Total Accuracy Rate: 0.909325447765
+Predicted_time1: 16.5964333998
+Predicted_time2: 51.5703327638
+Predicted_speed: 29.086490616
+Accuracy Rate: 0.835872237767
+
 7
-Predicted: 19.2004128089
-Predicted: 52.9150128762
-Predicted: 57.336065872
-28.3473426248
-Accuracy Rate: 0.857667341936
-26.1615438239
-Accuracy Rate: 0.929233770134
-Total Accuracy Rate: 0.893450556035
+Predicted_time1: 15.7907208386
+Predicted_time2: 51.6629794523
+Predicted_speed: 29.0343301122
+Accuracy Rate: 0.837373891735
+
 8
-Predicted: 18.2257821836
-Predicted: 56.255877103
-Predicted: 56.4984544566
-26.6638807756
-Accuracy Rate: 0.911817383398
-26.5493988186
-Accuracy Rate: 0.915658775031
-Total Accuracy Rate: 0.913738079214
+Predicted_time1: 16.8591035885
+Predicted_time2: 51.6561614358
+Predicted_speed: 29.0381623084
+Accuracy Rate: 0.837263382641
+
 9
-Predicted: 17.7601904607
-Predicted: 55.148971087
-Predicted: 57.6588624222
-27.1990568534
-Accuracy Rate: 0.893876215306
-26.0150814114
-Accuracy Rate: 0.934465267111
-Total Accuracy Rate: 0.914170741209
+Predicted_time1: 15.4545905958
+Predicted_time2: 52.8205815151
+Predicted_speed: 28.39802132
+Accuracy Rate: 0.856136761292
+
 10
-Predicted: 12.2360613911
-Predicted: 62.3909617906
-Predicted: 55.8256390477
-24.0419438481
-Accuracy Rate: 0.988868065809
-26.8693744593
-Accuracy Rate: 0.904754594747
-Total Accuracy Rate: 0.946811330278
+Predicted_time1: 14.6072934298
+Predicted_time2: 52.7941645468
+Predicted_speed: 28.4122310273
+Accuracy Rate: 0.85570858468
+
 11
-Predicted: 11.1047728319
-Predicted: 61.9579120461
-Predicted: 58.7947008701
-24.2099830427
-Accuracy Rate: 0.995779678049
-25.5125033005
-Accuracy Rate: 0.952873566096
-Total Accuracy Rate: 0.974326622073
+Predicted_time1: 12.7321027941
+Predicted_time2: 56.5370284321
+Predicted_speed: 26.5312847456
+Accuracy Rate: 0.916374394725
+
 12
-Predicted: 9.9300870134
-Predicted: 63.0711919641
-Predicted: 59.7494931534
-23.7826486751
-Accuracy Rate: 0.978203008198
-25.1048154693
-Accuracy Rate: 0.968347687308
-Total Accuracy Rate: 0.973275347753
+Predicted_time1: 12.0788945059
+Predicted_time2: 58.0982656862
+Predicted_speed: 25.8183266279
+Accuracy Rate: 0.941679542226
+
 13
-Predicted: 9.02129302623
-Predicted: 65.0413985737
-Predicted: 57.7078938974
-23.0622347135
-Accuracy Rate: 0.948571695302
-25.992977714
-Accuracy Rate: 0.935259910097
-Total Accuracy Rate: 0.941915802699
+Predicted_time1: 12.468263891
+Predicted_time2: 56.4478317979
+Predicted_speed: 26.5732084338
+Accuracy Rate: 0.914928660595
+
 14
-Predicted: 9.62634873892
-Predicted: 65.6481363637
-Predicted: 56.3218514457
-22.8490873174
-Accuracy Rate: 0.939804739743
-26.6326472141
-Accuracy Rate: 0.912796606531
-Total Accuracy Rate: 0.926300673137
+Predicted_time1: 13.3513557451
+Predicted_time2: 55.3540678083
+Predicted_speed: 27.0982794832
+Accuracy Rate: 0.897200503637
+

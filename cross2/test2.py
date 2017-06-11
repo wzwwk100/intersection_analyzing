@@ -19,7 +19,6 @@ for i in range(len(list) / 2):
     k2 = y2 / 0.0135653
     X.append([k2])
     y.append(num_time2 - num_time1 - 61.697 * k1)
-    #print num_time2 - num_time1 - 61.697 * (k1+k2)
 
 model = LinearRegression()
 for i in range(1 , len(X)):

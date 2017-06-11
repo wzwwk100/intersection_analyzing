@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{yuan2014network}
+Yuan Y, Van~Lint H, Van Wageningen-Kessels F, et~al.
+\newblock Network-wide traffic state estimation using loop detector and
+  floating car data.
+\newblock Journal of Intelligent Transportation Systems, 2014, 18(1):41--50
+\thudot
+
+\bibitem{wang2005real}
+Wang Y, Papageorgiou M.
+\newblock Real-time freeway traffic state estimation based on extended kalman
+  filter: a general approach.
+\newblock Transportation Research Part B: Methodological, 2005, 39(2):141--167
+\thudot
+
+\bibitem{rahmani2010requirements}
+Rahmani M, Koutsopoulos H~N, Ranganathan A.
+\newblock Requirements and potential of gps-based floating car data for traffic
+  management: Stockholm case study.
+\newblock  Intelligent Transportation Systems (ITSC), 2010 13th International
+  IEEE Conference on. IEEE, 2010.
+\newblock  730--735
+\thudot
+
+\bibitem{brockfeld2007benefits}
+Brockfeld E, Wagner P, Lorkowski S, et~al.
+\newblock Benefits and limits of recent floating car data technology--an
+  evaluation study.
+\newblock CDROM-WCTR2007, 2007. C2--830
+\thudot
+
+\bibitem{yue2009urban}
+Yue Y, Zou H, Li Q.
+\newblock Urban road travel speed estimation based on low sampling floating car
+  data.
+\newblock  ICCTP 2009: Critical Issues In Transportation Systems Planning,
+  Development, and Management. 2009: 1--7
+\thudot
+
+\bibitem{he2014delay}
+He Z~c, Ye W~j.
+\newblock Delay estimation model based on low-sampling-rate floating car data.
+\newblock  CICTP 2014: Safe, Smart, and Sustainable Multimodal Transportation
+  Systems. 2014: 387--395
+\thudot
+
+\end{thebibliography}

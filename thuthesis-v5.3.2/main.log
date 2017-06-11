@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.26)  28 MAY 2017 17:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.26)  11 JUN 2017 20:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1954,7 +1954,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks54
 \@floatcapt=\box69
 )) (./main.aux
-(./data/chap01.aux) (./data/chap02.aux) (./data/ack.aux) (./data/resume.aux))
+(./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
+(./data/chap5.aux) (./data/ack.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 20.
@@ -2084,34 +2085,8 @@ LaTeX Info: Redefining \nameref on input line 20.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./data/cover.tex)
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -2.00792pt
-(hyperref)                removed on input line 27.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lower' on input line 27.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 27.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -1.50562pt
-(hyperref)                removed on input line 27.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\spacefactor' on input line 27.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@m' on input line 27.
-
 File: figures/tsinghua.pdf Graphic file (type QTm)
-<use  "figures/tsinghua.pdf" >
+ <use  "figures/tsinghua.pdf" >
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 36.135pt on input line 28.
 
@@ -2308,8 +2283,6 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 .................................................
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 13.55052pt on input line 28.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 12.045pt on input line 28.
 LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 2
 8.
 
@@ -2318,8 +2291,6 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.045pt on input line 28.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 28.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.03374pt on input line 28.
  [1
@@ -2333,260 +2304,128 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (./main.toc [3
 
 
-])
+] [4])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./data/denotation.tex [4] [5
+ (./data/denotation.tex [5]) [6
 
 
-]) [6]
-\openout2 = `data/chap01.aux'.
+]
+\openout2 = `data/chap1.aux'.
 
- (./data/chap01.tex
+ (./data/chap1.tex
 第1章
-LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.52437pt on input line 7.
-LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 11.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 12.64714pt on input line 14.
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STKaiti' does not contain script 'CJK'.
-*************************************************
-\g__fontspec_family_STKaiti_int=\count322
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font STKaiti/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font STKaiti/BI (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font STKaiti/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STKaiti(0)' created for font 'STKaiti' with options
-. [Script={CJK},AutoFakeBold={4}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"STKaiti/OT:"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"STKaiti/OT:embolden=4;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-.................................................
+(Font)              scaled to size 12.64714pt on input line 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 6.
 [1
 
 
 
-]
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STFangsong' does not contain script 'CJK'.
-*************************************************
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 43.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.045pt on input line 73.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 11.04124pt on input line 79.
- [2]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 9.03374pt on input line 117.
- [3] [4]
-Overfull \hbox (9.60687pt too wide) in paragraph at lines 213--225
- [][] 
- []
+]) [2]
+\openout2 = `data/chap2.aux'.
 
-[5] [6] [7]
-Package hyperref Info: bookmark level for unknown assumption defaults to 0 on i
-nput line 343.
-Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
-ut line 347.
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
-nput line 355.
-Package hyperref Info: bookmark level for unknown proposition defaults to 0 on 
-input line 365.
- [8]
-Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
- line 373.
-Package hyperref Info: bookmark level for unknown axiom defaults to 0 on input 
-line 394.
-Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
-line 410.
- [9]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
-t line 423.
-Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
-line 439.
-Package hyperref Info: bookmark level for unknown corollary defaults to 0 on in
-put line 450.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 457.
- [10]
-Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
-t line 467.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.045pt on input line 471.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 471.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 6.0pt on input line 471.
-Package hyperref Info: bookmark level for unknown exercise defaults to 0 on inp
-ut line 479.
-Package hyperref Info: bookmark level for unknown conjecture defaults to 0 on i
-nput line 482.
-Package hyperref Info: bookmark level for unknown problem defaults to 0 on inpu
-t line 488.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 504.
-
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 504.
-
-
-Package natbib Warning: Citation `tex' on page 11 undefined on input line 504.
-
-
-Package natbib Warning: Citation `companion' on page 11 undefined on input line
- 504.
-
-
-Package natbib Warning: Citation `ColdSources' on page 11 undefined on input li
-ne 504.
-
-
-Package natbib Warning: Citation `Krasnogor2004e' on page 11 undefined on input
- line 504.
-
-
-Package natbib Warning: Citation `clzs' on page 11 undefined on input line 504.
-
-
-
-Package natbib Warning: Citation `zjsw' on page 11 undefined on input line 504.
-
-
-
-Package natbib Warning: Citation `ELIDRISSI94' on page 11 undefined on input li
-ne 505.
-
-
-Package natbib Warning: Citation `MELLINGER96' on page 11 undefined on input li
-ne 505.
-
-
-Package natbib Warning: Citation `SHELL02' on page 11 undefined on input line 5
-05.
-
-
-Package natbib Warning: Citation `zhubajie' on page 11 undefined on input line 
-506.
-
-
-Package natbib Warning: Citation `metamori2004' on page 11 undefined on input l
-ine 506.
-
-
-Package natbib Warning: Citation `shaheshang' on page 11 undefined on input lin
-e 506.
-
-
-Package natbib Warning: Citation `FistSystem01' on page 11 undefined on input l
-ine 506.
-
-
-Package natbib Warning: Citation `IEEE-1363' on page 11 undefined on input line
- 507.
-
-
-Package natbib Warning: Citation `DPMG' on page 11 undefined on input line 507.
-
-
-
-Package natbib Warning: Citation `kocher99' on page 11 undefined on input line 
-507.
-
-
-Package natbib Warning: Citation `NPB2' on page 11 undefined on input line 507.
-
-
-
-Package natbib Warning: Citation `chuban2001' on page 11 undefined on input lin
-e 508.
-
-
-Package natbib Warning: Citation `oclc2000' on page 11 undefined on input line 
-508.
-
-
-Package natbib Warning: Citation `cnarticle' on page 11 undefined on input line
- 508.
-
-
-Package natbib Warning: Citation `cnproceed' on page 11 undefined on input line
- 510.
-
-[11]
-
-Package natbib Warning: Citation `shaheshang' on page 12 undefined on input lin
-e 513.
-
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.03374pt on input line 557.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 5.0pt on input line 557.
-[12]) [13]
-\openout2 = `data/chap02.aux'.
-
- (./data/chap02.tex
+ (./data/chap2.tex
 第2章
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 31.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.0pt on input line 31.
-File: figures/thu-whole-logo.pdf Graphic file (type QTm)
-<use  "figures/thu-whole-logo.pdf" > [14
+File: figures/intersection.png Graphic file (type QTm)
+<use  "figures/intersection.png" >
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 11.04124pt on input line 12.
+ [3
 
 
 
 ]
-File: figures/thu-fig-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-fig-logo.pdf" >
-File: figures/thu-text-logo.pdf Graphic file (type QTm)
+File: figures/road_model.png Graphic file (type QTm)
+ <use  "figures/road_model.png" >
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
+ut line 36.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 38.
+Missing character: There is no ； in font ntx-Regular-tlf-ot1!
 
-<use  "figures/thu-text-logo.pdf" >
-File: figures/thu-fig-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-fig-logo.pdf" >
-File: figures/thu-text-logo.pdf Graphic file (type QTm)
+[4]
+Missing character: There is no ； in font ntx-Regular-tlf-ot1!
+File: figures/road_separation.png Graphic file (type QTm)
+ <use  "figures/road_separation.png" >
+Missing character: There is no （ in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ） in font ntx-Regular-tlf-ot1!
+Missing character: There is no （ in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ） in font ntx-Regular-tlf-ot1!
+File: figures/delay.png Graphic file (type QTm)
+ <use  "figures/delay.png" > [5]
+File: figures/delay2.png Graphic file (type QTm)
 
-<use  "figures/thu-text-logo.pdf" >
+<use  "figures/delay2.png" >
+Missing character: There is no （ in font ntx-Regular-tlf-ot1!
+Missing character: There is no ， in font ntx-Regular-tlf-ot1!
+Missing character: There is no ） in font ntx-Regular-tlf-ot1!
+ [6]) [7]
+\openout2 = `data/chap3.aux'.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ (./data/chap3.tex
+第3章
+File: figures/model_bulid.png Graphic file (type QTm)
+<use  "figures/model_bulid.png" > [8
 
-[15]
-File: figures/thu-whole-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-whole-logo.pdf" >
-File: figures/thu-whole-logo.pdf Graphic file (type QTm)
- <use  "figures/thu-whole-logo.pdf" >) [16] (./main.lof)
+
+
+] [9] [10]
+File: figures/comparison.png Graphic file (type QTm)
+
+<use  "figures/comparison.png" > [11]
+File: figures/flowchart.png Graphic file (type QTm)
+ <use  "figures/flowchart.png" > [12]
+[13]
+File: figures/residual.png Graphic file (type QTm)
+ <use  "figures/residual.png" > [14]) [15]
+\openout2 = `data/chap4.aux'.
+
+ (./data/chap4.tex
+第4章
+File: figures/simulation.png Graphic file (type QTm)
+<use  "figures/simulation.png" >
+File: figures/cross.png Graphic file (type QTm)
+ <use  "figures/cross.png" > [16
+
+
+
+]
+File: figures/bayes.png Graphic file (type QTm)
+
+<use  "figures/bayes.png" > [17]
+File: figures/result1.png Graphic file (type QTm)
+ <use  "figures/result1.png" >
+File: figures/result_right_turn.png Graphic file (type QTm)
+
+<use  "figures/result_right_turn.png" > [18]
+File: figures/difference.png Graphic file (type QTm)
+ <use  "figures/difference.png" >
+[19]
+File: figures/result2.png Graphic file (type QTm)
+ <use  "figures/result2.png" > [20]
+File: figures/result3.png Graphic file (type QTm)
+ <use  "figures/result3.png" > [21])
+[22]
+\openout2 = `data/chap5.aux'.
+
+ (./data/chap5.tex
+第5章
+) [23
+
+
+
+] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [17
+ [24
 
 
 
@@ -2595,107 +2434,72 @@ File: figures/thu-whole-logo.pdf Graphic file (type QTm)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [18
+ [25
 
 
-] (./main.loe)
+] (./main.loe [26
+
+
+])
 \tf@loe=\write7
 \openout7 = `main.loe'.
 
-
-No file main.bbl.
-[19
+ (./main.bbl
+[27]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.53937pt on input line 1.
+) [28
 
 
 ]
 \openout2 = `data/ack.aux'.
 
- (./data/ack.tex [20
+ (./data/ack.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
+(Font)              scaled to size 12.045pt on input line 8.
+ [29
 
 
 
-]) [21
+]) [30
 
 
 ] (./data/translate-cn.tex
 附录 A
-[22
+[31
 
 
-] [23]
+] [32]
 Missing character: There is no … in font ntx-Regular-tlf-ot1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
- [24]
+ [33]
 Missing character: There is no … in font ntx-Regular-tlf-ot1!
- [25]
+ [34]
 Missing character: There is no … in font ntx-Regular-tlf-ot1!
- [26]
+ [35]
 Missing character: There is no ， in font ntx-Regular-tlf-ot1!
 Missing character: There is no ， in font ntx-Regular-tlf-ot1!
- [27] [28] [29]) [30] [31]
-\openout2 = `data/resume.aux'.
-
- (./data/resume.tex
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.05249pt on input line 3.
- [32
-
-
-
-])
-[33]
-File: figures/scan-record.pdf Graphic file (type QTm)
- <use  "figures/scan-record.pdf" >
-File: figures/scan-record.pdf Graphic file (type QTm)
- <use  "figures/scan-record.pdf" >
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page1>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page1>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page1>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page1>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page1> [34
-
-]
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page2>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page2>
-File: figures/scan-record.pdf Graphic file (type QTm)
-
-<use  "figures/scan-record.pdf"  page2> [35]
+ [36] [37] [38]) [39]
 \tf@thm=\write8
 \openout8 = `main.thm'.
 
-
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
-(./main.aux (./data/chap01.aux) (./data/chap02.aux) (./data/ack.aux)
-(./data/resume.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 76.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+ [40]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+ (./main.aux
+(./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
+(./data/chap5.aux) (./data/ack.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 35644 strings out of 493591
- 686852 string characters out of 6143546
- 667628 words of memory out of 5000000
- 38512 multiletter control sequences out of 15000+600000
- 137392 words of font info for 221 fonts, out of 8000000 for 9000
+ 34820 strings out of 493591
+ 640472 string characters out of 6143546
+ 664125 words of memory out of 5000000
+ 37675 multiletter control sequences out of 15000+600000
+ 74357 words of font info for 103 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 70i,23n,96p,10437b,772s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,96p,10437b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (43 pages).
+Output written on main.pdf (48 pages).
